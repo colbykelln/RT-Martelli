@@ -1,0 +1,13 @@
+#I  Calling external Knuth-Bendix program.
+#I  External Knuth-Bendix program complete.
+#I  System computed is NOT confluent.
+KB_COMPLETE=false RULES=99938
+#WARNING: system is not confluent, so reductions may not be to normal form.
+TEST_1_IDENTITY=true REDUCED_LENGTH=0
+TEST_2_IDENTITY=true REDUCED_LENGTH=0
+TEST_3_IDENTITY=true REDUCED_LENGTH=0
+TEST_4_IDENTITY=true REDUCED_LENGTH=0
+TEST_5_IDENTITY=true REDUCED_LENGTH=0
+TEST_6_IDENTITY=true REDUCED_LENGTH=0
+TEST_7_IDENTITY=true REDUCED_LENGTH=0
+TEST_8_IDENTITY=true REDUCED_LENGTH=0

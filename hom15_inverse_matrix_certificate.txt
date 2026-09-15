@@ -1,0 +1,23 @@
+ALL_18_MATRIX_EQUALITIES=true
+SEARCH_ALGORITHM=corrected_M5_meet_in_the_middle
+SEARCH_HALF_DEPTH=10
+WORD_ENCODING: 1=x, 2=y, -1=x^-1, -2=y^-1
+The first 16 targets are the natural HMat generators; targets 17 and 18 are F1 and F2 of the Reidemeister--Schreier presentation.
+word(h_1)=(2, -1, -1, -2, 1, 2, 2, -1, -1, 2, 1, 2, -1, -1, -1)
+word(h_2)=()
+word(h_3)=(-1, -1, -2, -1, -1, -1, 2, 2, -1, 2, 2, 1, 1)
+word(h_4)=(-1, -2, 1, 1, -2, -2, -1, -2, -2, 1, 1, 1, 1)
+word(h_5)=(2, 1, 1, 1, -2, -1, -2, 1, 1, -2)
+word(h_6)=(1, -2, -1, -1, -1, 2, 2, 1, 1, -2)
+word(h_7)=(2, -1, -1, -2, -2, 1, 1, -2, 1, 2, 2, -1, -1, 2, 1, 2, -1, -1, -1)
+word(h_8)=(-1, -2, 1, 1, 1, 2, -1, -1, -2, 1, 1, -2, -2, 1, 1, 1)
+word(h_9)=(-1, 2, 2, -1, -1, 2, 2, 1, 1, -2)
+word(h_10)=(-1, -1, -1, 2, 2, 1, 1, -2)
+word(h_11)=(1, -2, -1, -2, -2, 1, 1, -2, -2, 1, 1, 1)
+word(h_12)=(2, -1, -1, 2, 2, 1, 1, -2)
+word(h_13)=(-1, -1, -1, 2, 2, 1, 1)
+word(h_14)=(1, 1, 1, -2, -1, -2, 1, 1, -2)
+word(h_15)=(1,)
+word(h_16)=(2,)
+inverse_image(F1)=(-1, -1, -1, 2, 2, -1, -1, 2, 1, 1, -2, -1, -1, -1, 2, 1)
+inverse_image(F2)=(2, -1, -1, -2, -2, -1, 2, 2, 1, 2, 1, 1, -2, 1, -2)
